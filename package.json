@@ -1,0 +1,13 @@
+{
+  "name": "auto-formation-frontend",
+  "version": "1.0.0",
+  "description": "I have experience with multiple frontend libraries and frameworks, but with the rapid updates they get I can fall behind quickly. Which is why this repo exist: each branch is almost the same project made in a different tech, with the purpose of learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./pocketbase serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
